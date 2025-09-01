@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://odoo2b.com">
+    <img src="https://odoo2b.com/logo.png" alt="Odoo2B Logo" width="200"/>
+  </a>
+</p>
 
-<!--
-**abu-haraz/abu-haraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ibrahim Abuharaz  
 
-Here are some ideas to get you started:
+**Odoo ERP Techno-Functional Consultant**  
+Founder of [Odoo2B](https://odoo2b.com) – *Odoo To Business*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Helping companies implement and customize **Odoo ERP**  
+🔹 Bridging the gap between **business processes** and **technical solutions**  
+
+---
+
+## 💼 What I Do
+- Odoo ERP Implementation (Community & Enterprise)  
+- Functional Analysis and Business Process Mapping  
+- Custom Modules Development (Python, XML, QWeb)  
+- Integration with third-party systems (APIs, Payment Gateways)  
+- Training and Support for End Users  
+
+---
+
+## 🚀 Tech Stack
+- **ERP**: Odoo (Community & Enterprise)  
+- **Languages**: Python, JavaScript, SQL  
+- **Frontend**: HTML, CSS, XML, QWeb  
+- **Databases**: PostgreSQL  
+- **DevOps**: Docker, Nginx, Ubuntu  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 📫 How to Reach Me
+- 🌐 Website: [odoo2b.com](https://odoo2b.com)  
+- 💼 LinkedIn: [linkedin.com/in/ibrahim-abu-haraz](https://www.linkedin.com/in/ibrahim-abu-haraz)  
+- 📧 Email: ibrahimanwer07@gmail.com  
+- 💻 GitHub: [github.com/abu-haraz](https://github.com/abu-haraz)  
+
+---
+✨ Driving business growth with Odoo ERP.
