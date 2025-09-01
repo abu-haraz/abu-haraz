@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://odoo2b.com">
-    <img src="https://odoo2b.com/logo.png" alt="Odoo2B Logo" width="200"/>
-  </a>
+  <img src="odoo.png" alt="Odoo2B Banner"/>
 </p>
 
 # 👋 Hi, I'm Ibrahim Abuharaz  
@@ -43,7 +41,8 @@ Founder of [Odoo2B](https://odoo2b.com) – *Odoo To Business*
 - 🌐 Website: [odoo2b.com](https://odoo2b.com)  
 - 💼 LinkedIn: [linkedin.com/in/ibrahim-abu-haraz](https://www.linkedin.com/in/ibrahim-abu-haraz)  
 - 📧 Email: ibrahimanwer07@gmail.com  
-- 💻 GitHub: [github.com/abu-haraz](https://github.com/abu-haraz)  
+- 📱 Phone: +966566811799  
+- 💻 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
 
 ---
 ✨ Driving business growth with Odoo ERP.
