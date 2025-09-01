@@ -42,7 +42,9 @@ Founder of [Odoo2B](https://odoo2b.com) – *Odoo To Business*
 - 💼 LinkedIn: [linkedin.com/in/ibrahim-abu-haraz](https://www.linkedin.com/in/ibrahim-abu-haraz)  
 - 📧 Email: ibrahimanwer07@gmail.com  
 - 📱 Phone: +966566811799  
-- 💻 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
+- 💻 GitHub: [github.com/abu-haraz
+](https://github.com/abu-haraz
+)  
 
 ---
 ✨ Driving business growth with Odoo ERP.
