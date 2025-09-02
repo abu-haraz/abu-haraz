@@ -2,7 +2,7 @@
   <img src="odoo.png" alt="Odoo2B Banner"/>
 </p>
 
-# 👋 Hi, I'm Ibrahim Abuharaz  
+# 👋 Hello, I'm Ibrahim Abuharaz  
 
 **Odoo ERP Techno-Functional Consultant**  
 Founder of [Odoo2B](https://odoo2b.com) – *Odoo To Business*  
